@@ -1,0 +1,37 @@
+.container {
+    padding: 10px;
+}
+
+.container__item {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #ADADAD;
+    gap: 10px;
+}
+
+.item__img,
+.container__total {
+    text-align: center;
+}
+
+.item__info {
+    padding: 1.2rem;
+}
+
+.container__buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.button__shopping,
+.button__cart {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    padding: 20px 10px;
+    border: 1px solid #ADADAD;
+}
