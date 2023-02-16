@@ -1,5 +1,5 @@
 {
-  "name": "itgloberspartnercl",
+  "name": "add-to-cart-info",
   "version": "0.0.1",
   "scripts": {
     "test": "vtex-test-tools test"
